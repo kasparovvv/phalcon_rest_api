@@ -71,7 +71,7 @@ class ApiController extends \Phalcon\Mvc\Controller {
             }
 
             $response->setStatusCode(200, 'OK');
-            $response->setJsonContent(["status" => true, "error" => false, "data" => $customer ]);
+            $response->setJsonContent(["status" => true, "error" => false, "message" => "Customer created successfully!" ]);
             $response->send();
             
         }
