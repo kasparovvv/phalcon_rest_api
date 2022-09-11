@@ -9,7 +9,7 @@
  
 |   API         | Crud          | Description |
 | ------------- | ------------- |-------------| 
-| Content Cell  | Content Cell  | First Header| 
+| POST /api/v1/register | CREATE | Create  new customer| 
 | Content Cell  | Content Cell  | First Header|
 
 
