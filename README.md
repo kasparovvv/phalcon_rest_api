@@ -1,8 +1,10 @@
-# PHALCON 4.O REST API
+# REST API phalcon application
  
 
-# INSTALL
+# Run the app
  Docker compose up -d 
+ 
+# REST API
  
 
 
