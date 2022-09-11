@@ -1,0 +1,16 @@
+{
+    "name": "phalcon/app",
+    "autoload": {
+        "psr-4": {
+            "Phalcon\\App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robin"
+        }
+    ],
+    "require-dev": {
+        "phalcon/devtools": "^4.2"
+    }
+}
