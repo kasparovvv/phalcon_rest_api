@@ -28,6 +28,9 @@ The REST API to the app is described below.
     {"id":1,"name":"Foo","status":"new"}
 
  
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
