@@ -1,6 +1,6 @@
 # REST API Phalcon Application
 
-### Customer can create and update an order with multiple products
+Customer can create and update an order with multiple products
 
 # Run the app
  Docker compose up -d 
