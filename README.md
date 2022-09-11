@@ -7,7 +7,7 @@
 ## REST API
 The REST API to the app is described below.
  
-# REGISTER CUSTOMER
+## REGISTER CUSTOMER
 
  
 
